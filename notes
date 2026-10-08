@@ -1,0 +1,3 @@
+WHM API tokens must be supplied through the WHM_API_TOKEN environment variable.
+Revoke any token previously stored in this workspace and create a replacement.
+
